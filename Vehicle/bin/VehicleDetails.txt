@@ -1,0 +1,20 @@
+
+Bikes Available:-
+
+1.Royal Enfield Classic 350
+Rs 1,35,813
+
+2.Royal Enfield Thunderbird 350x
+Rs 1,56,000
+
+3.Royal Enfield Himalayan
+Rs 1,67,550
+
+4.Royal Enfield Continental GT 650
+Rs 2,65,000
+
+5.Royal Enfield Thunderbird 500x
+Rs 1,98,000
+
+6.Royal Enfield Classic Chrome
+Rs 1,88,868
